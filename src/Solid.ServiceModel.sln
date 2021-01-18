@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid.ServiceModel", "Solid.ServiceModel\Solid.ServiceModel.csproj", "{B046960F-90A1-4758-8EAF-473293E2D42D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid.Extensions.ServiceModel", "Solid.Extensions.ServiceModel\Solid.Extensions.ServiceModel.csproj", "{2727CB12-9922-4500-B9CC-8EA7C6B653A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B046960F-90A1-4758-8EAF-473293E2D42D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B046960F-90A1-4758-8EAF-473293E2D42D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B046960F-90A1-4758-8EAF-473293E2D42D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B046960F-90A1-4758-8EAF-473293E2D42D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2727CB12-9922-4500-B9CC-8EA7C6B653A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2727CB12-9922-4500-B9CC-8EA7C6B653A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2727CB12-9922-4500-B9CC-8EA7C6B653A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2727CB12-9922-4500-B9CC-8EA7C6B653A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DC93889-B68C-4D8D-8D54-5282A3BA939B}
+	EndGlobalSection
+EndGlobal
